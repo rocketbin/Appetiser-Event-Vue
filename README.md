@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Event Oragnizer (events-fe)
 
 An Event Organizer App
@@ -21,6 +21,5 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
-=======
 # Appetiser-Event-Vue
->>>>>>> 511904fdd6ddf6ebcaf5e5bd2faca924e367f9ab
+
