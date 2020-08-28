@@ -1,0 +1,12 @@
+.parent   {
+	display: grid;
+	grid-template-columns: minmax(200px, 25%) 1fr;
+}
+
+.clip-menu {
+	padding:10px;
+}
+
+.padding-sm {
+	padding:2px;
+}
